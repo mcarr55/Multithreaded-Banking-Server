@@ -1,0 +1,65 @@
+------------------------------------------------------------------------
+Date:  Sat, Apr 11, 11:30am - 1:50pm
+
+(1) Actions: worked on server.py:
+     - set up new linux vm for project 3
+     - accepted github assignment and pulled repository
+     - read project 3 document, implemenation instructions 
+     - implmented show_accountholders in server.py
+(2) What I learned:
+     - How python works as interpreted C code
+     - How banks store user accounts and history
+     - How customers and administrators, interface with programs differently 
+--------------------------------------------------------------------
+Date: Sat, Apr 11, 3:10pm - 4:20pm
+
+(1) Actions: worked on server.py
+    -implemented show_history function
+    -implemented deposit funciton
+(2) What i learned:
+    -How fprint lets you print a string with variables in python
+    -How "with" can be used to create locked sections in python
+    -How to utilize dictionary format in python
+-----------------------------------------------------------------------
+Date: Tue, Apr, 14 11:30am - 1:20 pm
+
+(1) Actions: Worked on server.py
+    -reviewed implementation of deposit function
+    -implmented withdrawal function
+    -reviewed method of checking account type from show_accountholder()
+    -implmented begining of transfer_to function
+(2): What i learned:
+     -That different permissions are  granted to differnt account owner types
+     -That the withdraw and deposit function structure is similar
+----------------------------------------------------------------------------
+Date: Sat, Apr, 18 12:00 - 2:30 pm
+
+(1) Actions: Worked on server.py
+    -went through client.py structure to better understand input
+    -reread zybook notes for deadlock with 2 mutex blocks
+    -implmented sorting check in transfer_to function
+    -Finished implemnting  transfer_to function
+(2): What i learned:
+     -That ensuring two locks are utilized in the same order, prevents deadlock
+     -That python has a sorted() function to organize things by value
+     -That in python you could save the account to new variable instance
+------------------------------------------------------------------------------
+Date: Tue, Apr, 21 4:45 - 6:05 pm
+(1) Actions: Worked on server.py
+    -adjusted previous functions to return text from collected lists
+    -added to previous funcitons that lacked confirmation of transfers
+    -fixed issue in pay_loan_check not sorting before mutex lock
+    -implemented pay_loan_check function
+(2) What I learned:
+    - Joined strings from a list can be returned in python
+------------------------------------------------------------------------------
+Date: Fri, Apr 24, 2:00 - 6:20 pm
+(1) Acitons: Worked on Server.py, client.py
+    -implemented play_loan_transfer_to function in server.py
+    -Reimplememted show_history funciton for audit use and individual user
+    -tested each funciton with codingHints prompts
+    -modifed client.py parser to include negative number use
+(2) What I learned:
+    -How gnome_terminal is used to test python code, scripts
+    -How python .sh scripts can emulate client-server architecure in testing
+    -That the tabulate library helps organize lists from user code
