@@ -1,5 +1,5 @@
 Repository Note:
-This repositoy was formed from work done for within a course directory. To have this simulator project listed indpependently I had a new repository created. so the full commit histroy is not visible.
+This repositoy was formed from work done for within a course directory. To have this simulator project listed indpependently I had a new repository created. so the full commit history is not visible.
 
 
 Overview of distributed system:
