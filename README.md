@@ -1,6 +1,8 @@
-# Repository Note:
+## Repository Note:
 This repositoy was formed from work done for within a course directory. To have this simulator project listed indpependently I had a new repository created, so the full commit history is not visible.
 
+
+# Multithreaded Banking Server Simulator
 
 ## Overview of distributed system:
 
