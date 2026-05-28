@@ -6,7 +6,7 @@ This repository was formed from work done for within a course directory. To have
 
 ## My Implementation:
 
-I implemented fucntions in the server.py file to allow money to be transfered to and between accounts. I also edited the parser in client.py to facilitate this.
+I implemented fucntions in the server.py file to allow money to be transfered to and between accounts. I also edited the parser in client.py to facilitate this. My day to day contributions are in the worklog.
 
 ## Overview of distributed system:
 
