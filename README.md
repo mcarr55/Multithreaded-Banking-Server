@@ -4,6 +4,10 @@ This repositoy was formed from work done for within a course directory. To have 
 
 # Multithreaded Banking Server Simulator
 
+## My Implementation
+
+I implemented fucntions in the server.py file to allow money to be transfered to and between accounts. I also edited the parser in client.py to facilitate this.
+
 ## Overview of distributed system:
 
 In the distributed system, the users serve as the clients, in which they use the bank for their individual inquiries. The bank serves as the server as it simultaneously addresses the requests of individual clients, using separate threads. The users communicate to the bank their queries of paying a loan or depositing money, which is processed as an individual thread with the bank, which holds their shared state which is all the users’ bank accounts.
