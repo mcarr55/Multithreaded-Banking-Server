@@ -1,3 +1,7 @@
+Repository Note:
+This repositoy was formed from work done for within a course directory. To have this simulator project listed indpependently I had a new repository created. so the full commit histroy is not visible.
+
+
 Overview of distributed system:
 
 In the distributed system, the users serve as the clients, in which they use the bank for their individual inquiries. The bank serves as the server as it simultaneously addresses the requests of individual clients, using separate threads. The users communicate to the bank their queries of paying a loan or depositing money, which is processed as an individual thread with the bank, which holds their shared state which is all the users’ bank accounts.
